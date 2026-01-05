@@ -56,6 +56,7 @@ Cada aula terá **5 minutos**, permitindo aprendizado rápido, direto ao ponto e
 - Base sólida em automação via terminal
 - Conteúdo reutilizável como portfólio
 - Engajamento em formato short (YouTube, Reels, TikTok)
+Link do teaser: [AULA-0](https://studio.d-id.com/share?id=f1f9cf2cc6fe9b47c72ea64e0b929e16)
 
 ---
 

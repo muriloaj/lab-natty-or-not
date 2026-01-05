@@ -1,51 +1,63 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎥 Cloud Scripts News – Aprenda Bash & PowerShell do Zero
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto educacional de **vídeos curtos (shorts)** voltado para pessoas interessadas em **Cloud Computing, DevOps e SRE**, com o objetivo de ensinar **Bash Script e PowerShell** de forma **simples, prática e acessível**, utilizando apenas recursos **gratuitos no Windows pessoal**.
+
+Os conteúdos serão apresentados em formato de **telejornal tech**, com um **avatar virtual** atuando como âncora, trazendo notícias, dicas rápidas e exemplos práticos de automação usados no dia a dia de ambientes cloud (Azure, AWS e GCP), sempre com foco em **terminal, scripts e produtividade**.
+
+Cada aula terá **5 minutos**, permitindo aprendizado rápido, direto ao ponto e ideal para quem estuda ou trabalha.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+### 🎬 Criação e Apresentação
+- **ElevenLabs** – geração de voz natural em português
+- **D-ID** – criação de avatar apresentador estilo telejornal
+- **Canva / CapCut** – edição de vídeo curto (Shorts/Reels)
+
+### 💻 Ambiente Técnico (100% Gratuito)
+- **Windows 10/11**
+- **Windows Terminal**
+- **PowerShell 7+**
+- **WSL2 (Ubuntu)** para Bash
+- **VS Code** com extensões:
+  - PowerShell
+  - Bash
+  - ShellCheck
+- **Git (opcional, gratuito)**
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+1. **Definição do público-alvo**
+   - Iniciantes em Cloud, DevOps e Infra
+   - Pessoas sem acesso a cloud paga
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+2. **Roteiro educacional progressivo**
+   - Do zero absoluto até scripts básicos reutilizáveis
+   - Linguagem simples, exemplos reais
 
-### Exemplos e Insigths
+3. **Formato audiovisual**
+   - Avatar estilo **telejornal**
+   - Abertura padrão + manchete + demo rápida
+   - Fechamento com dica prática
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+4. **Execução técnica**
+   - Scripts gravados diretamente no Windows
+   - Sem dependência de Azure/AWS pagos
 
-## Links Interessantes
+---
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## 🚀 Resultados Esperados
+- Aprendizado prático e acessível
+- Redução da barreira de entrada para Cloud
+- Base sólida em automação via terminal
+- Conteúdo reutilizável como portfólio
+- Engajamento em formato short (YouTube, Reels, TikTok)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+---
+
+## 💭 Reflexão
+Criar algo **“natty”** com IA é um desafio: o segredo está em **usar IA como apresentador**, mas manter o **conteúdo técnico real**, executado de verdade no terminal. O equilíbrio entre estética, clareza e prática transforma IA em **meio**, não em fim.
